@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-Hi 👋🏼, I'm Pablo and I work as a Cloud Security Engineer. I'm Argentinian, currently living in Malaga with Argentinian and Italian citizenship, looking for a new opportunity.
+Hi 👋🏼, I'm Pablo and I work as a Cloud Security Engineer. I'm Argentinian, currently living in The Netherlands with Argentinian and Italian citizenship.
 
 I focus on cloud security, architecture design, tools implementation, I enjoy hands on and code security. 
 
